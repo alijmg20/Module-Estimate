@@ -1,0 +1,13 @@
+Un nuevo registro de presupuesto: {fullname}
+
+Detalles
+
+Email: {email}
+
+Teléfono: {telefono}
+
+Nombre de producto: {product_name}
+
+Descripción: {description}
+
+{shop_name}

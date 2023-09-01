@@ -1,0 +1,7 @@
+Un nuevo registro como profesional ha sido efectuado por el siguiente cliente: {firstname} {lastname}
+
+Detalles
+
+Email: {email}
+
+{shop_name}

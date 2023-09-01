@@ -1,0 +1,19 @@
+Un nuevo registro como profesional ha sido efectuado por el siguiente cliente: {nombre} {apellidos}
+
+Detalles
+
+Email: {email}
+
+Teléfono: {telefono}
+
+Empresa: {empresa}
+
+CIF/NIF: {cif}
+
+Dirección:
+
+{direccion}
+{ciudad}, {provincia}, {cpostal}
+{pais}
+
+{shop_name}
